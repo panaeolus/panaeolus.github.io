@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciidoctor (2.0.10)
+    asciidoctor-diagram (1.5.18)
+      asciidoctor (>= 1.5.0, < 3.x)
+    asciimath (1.0.8)
+    coderay (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asciidoctor
+  asciidoctor-diagram
+  asciimath
+  coderay
+
+BUNDLED WITH
+   1.17.2
